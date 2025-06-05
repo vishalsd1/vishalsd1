@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Vishal Dhangare</h1>
+<h3 align="center">Full Stack Developer | React Native Enthusiast | IoT Explorer</h3>
 
-<!--
-**vishalsd1/vishalsd1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&color=00FFEE&width=435&lines=Welcome+to+my+GitHub!;React+Native+%7C+MERN+%7C+IoT+Developer;Let's+build+something+awesome+%F0%9F%94%A5" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+- 🔭 I’m currently working on **a Baby Nutrition App (React Native)**
+- 🌱 Exploring **MQTT + ESP32 + Data Visualization**
+- 🧠 Learning advanced backend, security & CI/CD
+- 💬 Ask me about **React Native, Node.js, or IoT**
+- 📫 Reach me: **vishaldhangare@email.com**
+- 🌐 Portfolio: _coming soon_
+
+---
+
+### 🛠️ Tech Stack
+
+```bash
+Languages:      Java | JavaScript | Python | C++
+Mobile:         React Native
+Web Dev:        React.js | Node.js | Express | MongoDB
+Hardware:       ESP32 | ACS712 | ZMPT101B | MQTT
+Tools & DevOps: Git | GitHub | VS Code | Postman | Firebase
